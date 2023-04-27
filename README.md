@@ -1,4 +1,4 @@
-## Oi, eu sou Rebeca, aprendiz de programação e apaixonada por tecnologia!
+## Oi, sou Rebeca aprendiz de programação e apaixonada por tecnologia!
 
 Estudante de análise e desenvolvimento de sistemas, imergindo no mundo da programção descobrindo linguagens, tecnologias e me divertindo na aprendizagem. 
 

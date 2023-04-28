@@ -6,7 +6,7 @@
 <a href = "mailto:rebecca.alves2724.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-Estudante de análise e desenvolvimento de sistemas, imergindo no mundo da programção descobrindo linguagens, fascinada por tecnologia e suas diretrizes. 👾
+Estudante de análise e desenvolvimento de sistemas, imergindo no mundo da programção descobrindo linguagens e fascinada por tecnologia e suas diretrizes. 👾
 
 ## Aprendizado contínuo 
  

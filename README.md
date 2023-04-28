@@ -4,10 +4,10 @@
 <a href="https://instagram.com/rebecca.alves27" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rebeca-alvess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:rebecca.alves2724.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </div>
+</div>
 
 Estudante de análise e desenvolvimento de sistemas, imergindo no mundo da programção descobrindo linguagens, fascinada por tecnologia e suas diretrizes. 👾
-##
+
 ## Conhecimentos
  
 <div  align="center">

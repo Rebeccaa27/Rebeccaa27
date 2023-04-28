@@ -8,7 +8,7 @@
 
 Estudante de análise e desenvolvimento de sistemas, imergindo no mundo da programção descobrindo linguagens, fascinada por tecnologia e suas diretrizes. 👾
 
-## Conhecimentos
+## Aprendizado contínuo 
  
 <div  align="center">
  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Rebeccaa27&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

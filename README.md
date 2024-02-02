@@ -1,4 +1,4 @@
-### Olá! Sou Rebeeca Alves 🤖 
+### Olá! Sou Rebeca Alves 🤖 
 
 Estudante de Análise e Desenvolvimento de Sistemas apaixonada por tecnologia. Busco constantemente aprimorar minha habilidades em desenvolvimento de software, com foco em Full-Stack e CiberSegurança. Explorando novas tecnologias e frameworks para expandir meu conhecimento e impacto na área de TI.
 

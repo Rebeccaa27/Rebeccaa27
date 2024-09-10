@@ -1,4 +1,4 @@
-### Olá! Sou Rebeca Alves 🤖 
+### Olá! Me chamo Rebeca 
 
 Sou estudante de Análise e Desenvolvimento de Sistemas com uma paixão intensa por tecnologia e inovação. Estou focada em me tornar uma desenvolvedora Full-Stack com uma forte ênfase em Cibersegurança, para construir softwares robustos e seguros.
 

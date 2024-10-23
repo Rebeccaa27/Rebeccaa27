@@ -1,17 +1,6 @@
 ### Hello! Me chamo Rebeca. 
 
-Sou estudante de Análise e Desenvolvimento de Sistemas com uma paixão intensa por tecnologia e inovação. Estou focada em me tornar uma desenvolvedora Full-Stack com uma forte ênfase em Cibersegurança, para construir softwares robustos e seguros.
-
-💻 Áreas de Interesse:
-
-Desenvolvimento Full-Stack: Explorando o ciclo completo do desenvolvimento de software, desde o front-end ao back-end.
-Cibersegurança: Aprendendo e aplicando práticas para criar aplicações mais seguras e proteger dados.
-Cloud Computing: Utilizando serviços na nuvem para soluções escaláveis e eficientes.
-🚀 O que estou aprendendo:
-
-Tecnologias e frameworks como React, JavaScript, e Java.
-Práticas de DevOps e Infraestrutura como Código com AWS.
-Metodologias Ágeis e melhores práticas de versionamento.
+Estudante de Análise e Desenvolvimento de Sistemas com uma paixão intensa por tecnologia e inovação.
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rebecca.alves2724@gmail.com)

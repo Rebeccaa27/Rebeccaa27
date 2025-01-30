@@ -1,38 +1,27 @@
-### Hello! Me chamo Rebeca. 
+### Olá, sou a Rebeca!
 
-Estudante de Análise e Desenvolvimento de Sistemas com uma paixão intensa por tecnologia e inovação.
+Sou estudante de Análise e Desenvolvimento de Sistemas e tenho um grande interesse em entender como as coisas funcionam, especialmente quando se trata de tecnologia e segurança. Gosto de explorar a lógica por trás do desenvolvimento de software e como podemos torná-lo mais seguro e eficiente. Meu foco está em aprender novas ferramentas, boas práticas e como elas se encaixam no mundo da tecnologia.
 
+Siga-me nas redes sociais e entre contato.
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rebecca.alves2724@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rebecca.alves2724@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebeca-alvess/)
 
-![Rebeca GitHub stats](https://github-readme-stats.vercel.app/api?username=Rebeccaa27&show_icons=true&theme=dracula)
-
-## Tecnologias que estou estudando
-<div style="display: inline_block"><br/> 
-<img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img align="center" alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-</div>
-
-<hr>
-
-<h3 align="left">Statistics</h3>
-<p align="center">
-  <a href="https://github.com/Rebeccaa27/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rebeccaa27&langs_count=6&theme=dracula&layout=compact&count_private=true&show_icons=true&include_all_commits=true"
-    alt="Rebeccaa27 :: overall Top Langs " />
-  </a>
+### Estatísticas do meu GitHub
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=Rebeccaa27" height="150" alt="Estatísticas gerais" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=Rebeccaa27" height="150" alt="Linguagens mais utilizadas" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Rebeccaa27/">
-    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rebeccaa27&theme=dracula&layout=compact&count_private=true&show_icons=true&include_all_commits=true"
-    alt="Rebeccaa27 :: Top Langs by repo" />
-    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rebeccaa27&theme=dracula&layout=compact&count_private=true&show_icons=true&include_all_commits=true"
-    alt="Rebeccaa27 :: Top Langs by commit" />
-  </a>
+### Tecnologias que estou estudando
+Atualmente, estou me aprofundando nas seguintes tecnologias:
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="52" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="40" width="52" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" width="52" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" height="40" width="52" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="52" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="52" alt="CSS"/>
 </p>
 
-<hr>

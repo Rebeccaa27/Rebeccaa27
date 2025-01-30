@@ -10,8 +10,29 @@ Estudante de Análise e Desenvolvimento de Sistemas com uma paixão intensa por 
 
 ## Tecnologias que estou estudando
 <div style="display: inline_block"><br/> 
-<img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img align="center" alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </div>
+
+<hr>
+
+<h3 align="left">Statistics</h3>
+<p align="center">
+  <a href="https://github.com/Rebeccaa27/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rebeccaa27&langs_count=6&theme=dracula&layout=compact&count_private=true&show_icons=true&include_all_commits=true"
+    alt="Rebeccaa27 :: overall Top Langs " />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Rebeccaa27/">
+    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rebeccaa27&theme=dracula&layout=compact&count_private=true&show_icons=true&include_all_commits=true"
+    alt="Rebeccaa27 :: Top Langs by repo" />
+    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rebeccaa27&theme=dracula&layout=compact&count_private=true&show_icons=true&include_all_commits=true"
+    alt="Rebeccaa27 :: Top Langs by commit" />
+  </a>
+</p>
+
+<hr>

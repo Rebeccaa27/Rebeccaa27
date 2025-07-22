@@ -2,7 +2,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemRlbGxzcmdsZTJteTM2MWFkbGczMHkwc3lkcGVkaHlqemgzNjl4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sNC71wDxPr0CgGB8zX/giphy.webp" width="30" alt="GIF animado" />
 </p>
 
-  Estudante de <strong>CiÊncias da Computação</strong>, formada em <strong>Análise e Desenvolvimento de Sistemas</strong>.<br/>
+  Estudante de <strong>Ciências da Computação</strong>, formada em <strong>Análise e Desenvolvimento de Sistemas</strong>.<br/>
   Meu foco está em <strong>back-end Java</strong> e segurança da informação.<br/>
   Busco sempre aprender novas ferramentas, aplicar boas práticas e construir sistemas seguros e eficientes.
 </p>
